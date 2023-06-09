@@ -1,6 +1,5 @@
 #  Port Scanning and Root Access (HTB #1) 
 
-Description:
 During this project, I successfully utilized Kali Linux to perform a HackTheBox challenge. The objective of the challenge was to scan open ports on a target device and gain root access to another device.
 
 Key Contributions:
